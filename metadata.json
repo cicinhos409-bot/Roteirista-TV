@@ -1,0 +1,6 @@
+{
+  "name": "Roteirista TV: Famosos & Novelas",
+  "description": "Estúdio profissional de criação e verificação de roteiros para canais do YouTube sobre novelas antigas, famosos e TV brasileira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
